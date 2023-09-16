@@ -1,0 +1,39 @@
+# Copyright (C) 2023 Ravi Gadhiya
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Multi-Author Posts 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-multi-author-posts\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-14T20:58:41+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: wp-multi-author-posts\n"
+
+#. Plugin Name of the plugin
+msgid "WP Multi-Author Posts"
+msgstr ""
+
+#. Description of the plugin
+msgid "WP Multi-Author Posts allows you to create, manage and display authors for all your Posts."
+msgstr ""
+
+#. Author of the plugin
+msgid "Ravi Gadhiya"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/ravigadhiyawp"
+msgstr ""
+
+#: inc/admin/class.wpmap.admin.php:67
+msgid "Select Contributors:"
+msgstr ""
+
+#: inc/front/class.wpmap.front.php:47
+msgid "Contributors:"
+msgstr ""
